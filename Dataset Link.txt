@@ -1,0 +1,5 @@
+Dataset 1: https://www.kaggle.com/datasets/mubashirrahim/wind-power-generation-data-forecasting
+
+Dataset 2: https://www.kaggle.com/datasets/theforcecoder/wind-power-forecasting
+
+Dataset 3: https://github.com/irenekarijadi/CEEMDAN-EWT-LSTM
